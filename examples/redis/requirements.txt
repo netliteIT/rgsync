@@ -1,3 +1,0 @@
-rgsync
-redis
-redis-py-cluster
